@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+    padding: 0;
+}
 #navbar {
     background-color: #333;
   }
@@ -14,13 +18,20 @@
   }
   
   #welcome-section h1 {
-    color: #333;
-    font-size: 32px;
+    color: black;
+    font-size: 40px;
+  
+  }
+  #welcome-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
   }
   
-  #projects .project-title {
-    color: #333;
-    font-size: 24px;
+  #projects .project-tile {
+    color: white;
+    font-size: 30px;
   }
   
   #projects a:hover {
@@ -48,14 +59,33 @@
   }
   
   footer p {
-    color: #333;
+    color: white;
     font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+#navbar {
+    background: linear-gradient(to right, #333, #777);
+  }
+  
+  #welcome-section {
+    background-color: lightblue;
+  }
+  
+  #projects {
+    background-image: url(https://cdn.techtitute.com/portal-blog/Desarrollo-de-software-basado-en-modelos.jpg);
+  }
+  
+  footer {
+    background-color: #333;
+    color: white !important;
   }
 
-  /* Style the navbar for screens with a width of less than 600px */
 @media screen and (max-width: 600px) {
     #navbar {
-      background-color: #333;
+      background-color: white;
       display: flex;
       flex-direction: column;
     }
@@ -76,7 +106,7 @@
   
   /* Style the project titles for screens with a width of less than 800px */
   @media screen and (max-width: 800px) {
-    #projects .project-title {
+    #projects .project-tile {
       font-size: 20px;
     }
   }
