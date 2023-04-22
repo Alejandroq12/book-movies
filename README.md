@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="assets/logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>M</b></h3>
+  <h3><b>Book movie seats</b></h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[your\_project\_name\] ](#-your_project_name-)
+- [📖 Book Movie Seats ](#-book-movie-seats-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,11 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Book Movie Seats <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+Book Movie Seats is a website that uses JavaScript to save data in the local storage, allows you to calculate the number of seats/price, it shows the occupied seats and the selected ones. It has a simple interfaces as it was only created to practice DOM manipulation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -239,8 +237,6 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
