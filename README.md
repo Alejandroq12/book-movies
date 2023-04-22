@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="assets/logo.png" alt="logo" width="140"  height="auto" />
+  <img src="assets/logo.png" alt="logo" width="450"  height="auto" />
   <br/>
 
   <h3><b>Book movie seats</b></h3>
