@@ -30,7 +30,7 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
+  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -44,23 +44,11 @@ Book Movie Seats is a website that uses JavaScript to save data in the local sto
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary></summary>
+  <summary>Frontend</summary>
   <ul>
-    <li><a href=""></a></li>
-  </ul>
-</details>
-
-<details>
-  <summary></summary>
-  <ul>
-    <li><a href=""></a></li>
-  </ul>
-</details>
-
-<details>
-<summary></summary>
-  <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Learn/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 </details>
 
@@ -69,9 +57,9 @@ Book Movie Seats is a website that uses JavaScript to save data in the local sto
 ### Key Features <a name="key-features"></a>
 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Use local storage to save data.**
+- **Clean code.**
+- **DOM manipulation.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,75 +83,44 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Only a web browser.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+- Open the terminal and use the following command:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
 ```
---->
+  cd my-folder
+  git clone https://github.com/Alejandroq12/book-movies.git
+```
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+For this project you just need a web browser.
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+For this project you just need to open the index.html file with your browser.
 
 ### Run tests
 
-To run tests, run the following command:
+No tests were added to this project.
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+You can deploy this project using: GitHub Pages,
+- I used GitHub Pages to deploy my website.
+- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,11 +128,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Julio Quezada**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
+- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
+- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -184,9 +141,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **I will add a header and footer.**
+- [ ] **I will add another page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,23 +168,18 @@ If you like this project please give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Traversy Media for his amazing content and his amazing learning platform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+<!-- FAQ -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-- **[Question_1]**
+- **What did you learn?**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - I learned a lot about DOM manipulation.
+  - I learned how to save data using the local storage.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
